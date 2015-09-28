@@ -17,3 +17,5 @@ console.log(f(1, 2)(3));
 console.log(f(1, 2, 3));
 console.log(f(1)(2, 3));
 ```
+# License
+MIT
